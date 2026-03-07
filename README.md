@@ -62,7 +62,7 @@ node server.js
 Server will run on:
 http://localhost:5000
 
-5. live link   task-manager-ku67-ha58jdaex-attyagi2002-1021s-projects.vercel.app
+Live Demo: https://task-manager-ku67-ha58jdaex-attyagi2002-1021s-projects.vercel.app
 
 
 ## Deployment
