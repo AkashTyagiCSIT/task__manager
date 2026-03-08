@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/tasks';
+const API_URL = 'task-manager-p5jz3slsc-attyagi2002-1021s-projects.vercel.app';
 
 let editingTaskId = null;
 
