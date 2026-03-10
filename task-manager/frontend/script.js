@@ -1,4 +1,4 @@
-const API_URL = "https://task-manager-bi134t900-attyagi2002-1021s-projects.vercel.app";
+const API_URL = "https://task-manager-bi134t900-attyagi2002-1021s-projects.vercel.app/tasks";
 
 let editingTaskId = null;
 
