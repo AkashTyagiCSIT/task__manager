@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DB_PATH = path.join(__dirname, 'data', 'tasks.json');
+const DB_PATH = path.resolve(__dirname, 'data', 'tasks.json');
 
 // Ensure data directory exists
 function ensureDataDir() {
